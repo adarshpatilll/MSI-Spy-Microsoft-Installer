@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\Programs\\MSI Spy - Microsoft Installer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30019DF3-52F5-4F25-AA51-3B8F96F7D77E}|ProductCatalog\\ProductCatalog.csproj|y:\\programs\\msi spy - microsoft installer\\productcatalog\\populatelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30019DF3-52F5-4F25-AA51-3B8F96F7D77E}|ProductCatalog\\ProductCatalog.csproj|solutionrelative:productcatalog\\populatelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30019DF3-52F5-4F25-AA51-3B8F96F7D77E}|ProductCatalog\\ProductCatalog.csproj|Y:\\Programs\\MSI Spy - Microsoft Installer\\productcatalog\\aboutform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30019DF3-52F5-4F25-AA51-3B8F96F7D77E}|ProductCatalog\\ProductCatalog.csproj|solutionrelative:productcatalog\\aboutform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30019DF3-52F5-4F25-AA51-3B8F96F7D77E}|ProductCatalog\\ProductCatalog.csproj|Y:\\Programs\\MSI Spy - Microsoft Installer\\productcatalog\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30019DF3-52F5-4F25-AA51-3B8F96F7D77E}|ProductCatalog\\ProductCatalog.csproj|solutionrelative:productcatalog\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutForm.Designer.cs",
+              "DocumentMoniker": "Y:\\Programs\\MSI Spy - Microsoft Installer\\ProductCatalog\\AboutForm.Designer.cs",
+              "RelativeDocumentMoniker": "ProductCatalog\\AboutForm.Designer.cs",
+              "ToolTip": "Y:\\Programs\\MSI Spy - Microsoft Installer\\ProductCatalog\\AboutForm.Designer.cs",
+              "RelativeToolTip": "ProductCatalog\\AboutForm.Designer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:59:55.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutForm.cs [Design]",
+              "DocumentMoniker": "Y:\\Programs\\MSI Spy - Microsoft Installer\\ProductCatalog\\AboutForm.cs",
+              "RelativeDocumentMoniker": "ProductCatalog\\AboutForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MSI-Spy-Microsoft-Installer-ASP.NET-Project\\MSI Spy - Microsoft Installer ASP.NET Project\\MSI Spy - Microsoft Installer\\ProductCatalog\\AboutForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:59:44.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PopulateList.cs",
+              "DocumentMoniker": "Y:\\Programs\\MSI Spy - Microsoft Installer\\ProductCatalog\\PopulateList.cs",
+              "RelativeDocumentMoniker": "ProductCatalog\\PopulateList.cs",
+              "ToolTip": "Y:\\Programs\\MSI Spy - Microsoft Installer\\ProductCatalog\\PopulateList.cs",
+              "RelativeToolTip": "ProductCatalog\\PopulateList.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAgwJkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:49:22.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

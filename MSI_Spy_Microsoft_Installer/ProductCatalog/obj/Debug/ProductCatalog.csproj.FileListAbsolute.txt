@@ -1,0 +1,28 @@
+C:\Users\ASUS\Downloads\MSI-Spy-Microsoft-Installer-ASP.NET-Project\MSI Spy - Microsoft Installer ASP.NET Project\MSI Spy - Microsoft Installer\ProductCatalog\bin\Debug\ProductCatalog.exe.config
+C:\Users\ASUS\Downloads\MSI-Spy-Microsoft-Installer-ASP.NET-Project\MSI Spy - Microsoft Installer ASP.NET Project\MSI Spy - Microsoft Installer\ProductCatalog\bin\Debug\ProductCatalog.exe
+C:\Users\ASUS\Downloads\MSI-Spy-Microsoft-Installer-ASP.NET-Project\MSI Spy - Microsoft Installer ASP.NET Project\MSI Spy - Microsoft Installer\ProductCatalog\bin\Debug\ProductCatalog.pdb
+C:\Users\ASUS\Downloads\MSI-Spy-Microsoft-Installer-ASP.NET-Project\MSI Spy - Microsoft Installer ASP.NET Project\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\MSI-Spy-Microsoft-Installer-ASP.NET-Project\MSI Spy - Microsoft Installer ASP.NET Project\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.AboutForm.resources
+C:\Users\ASUS\Downloads\MSI-Spy-Microsoft-Installer-ASP.NET-Project\MSI Spy - Microsoft Installer ASP.NET Project\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.CatalogForm.resources
+C:\Users\ASUS\Downloads\MSI-Spy-Microsoft-Installer-ASP.NET-Project\MSI Spy - Microsoft Installer ASP.NET Project\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.FeatureForm.resources
+C:\Users\ASUS\Downloads\MSI-Spy-Microsoft-Installer-ASP.NET-Project\MSI Spy - Microsoft Installer ASP.NET Project\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.FindProductForm.resources
+C:\Users\ASUS\Downloads\MSI-Spy-Microsoft-Installer-ASP.NET-Project\MSI Spy - Microsoft Installer ASP.NET Project\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.PatchForm.resources
+C:\Users\ASUS\Downloads\MSI-Spy-Microsoft-Installer-ASP.NET-Project\MSI Spy - Microsoft Installer ASP.NET Project\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.Properties.Resources.resources
+C:\Users\ASUS\Downloads\MSI-Spy-Microsoft-Installer-ASP.NET-Project\MSI Spy - Microsoft Installer ASP.NET Project\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\MSI-Spy-Microsoft-Installer-ASP.NET-Project\MSI Spy - Microsoft Installer ASP.NET Project\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\MSI-Spy-Microsoft-Installer-ASP.NET-Project\MSI Spy - Microsoft Installer ASP.NET Project\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.exe
+C:\Users\ASUS\Downloads\MSI-Spy-Microsoft-Installer-ASP.NET-Project\MSI Spy - Microsoft Installer ASP.NET Project\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.pdb
+Y:\Programs\MSI Spy - Microsoft Installer\ProductCatalog\bin\Debug\ProductCatalog.exe.config
+Y:\Programs\MSI Spy - Microsoft Installer\ProductCatalog\bin\Debug\ProductCatalog.exe
+Y:\Programs\MSI Spy - Microsoft Installer\ProductCatalog\bin\Debug\ProductCatalog.pdb
+Y:\Programs\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.csproj.AssemblyReference.cache
+Y:\Programs\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.AboutForm.resources
+Y:\Programs\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.CatalogForm.resources
+Y:\Programs\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.FeatureForm.resources
+Y:\Programs\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.FindProductForm.resources
+Y:\Programs\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.PatchForm.resources
+Y:\Programs\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.Properties.Resources.resources
+Y:\Programs\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.csproj.GenerateResource.cache
+Y:\Programs\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.csproj.CoreCompileInputs.cache
+Y:\Programs\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.exe
+Y:\Programs\MSI Spy - Microsoft Installer\ProductCatalog\obj\Debug\ProductCatalog.pdb
